@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "salary": 50000,
+        "dateOfBirth": "1990-05-15"
+      },
+      {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "email": "alice.smith@example.com",
+        "salary": 60000,
+        "dateOfBirth": "1988-11-02"
+      },
+      {
+        "firstName": "Robert",
+        "lastName": "Johnson",
+        "email": "robert.johnson@example.com",
+        "salary": 70000,
+        "dateOfBirth": "1995-08-20"
+      },
+      {
+        "firstName": "Emily",
+        "lastName": "Wilson",
+        "email": "emily.wilson@example.com",
+        "salary": 55000,
+        "dateOfBirth": "1993-04-10"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "email": "michael.brown@example.com",
+        "salary": 45000,
+        "dateOfBirth": "1991-12-25"
+      }
+    ]
+  }
+  
